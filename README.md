@@ -1,1 +1,1 @@
-# related-moviesgenerator
+# related-moviesgenerator-app
